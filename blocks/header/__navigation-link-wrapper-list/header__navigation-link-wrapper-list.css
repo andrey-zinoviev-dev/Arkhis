@@ -1,0 +1,8 @@
+.header__navigation-link-wrapper-list {
+  margin: 0;
+  position: absolute;
+  padding: 15px 18px 11px 18px;
+  list-style: none;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+  background: #FFFFFF;
+}
