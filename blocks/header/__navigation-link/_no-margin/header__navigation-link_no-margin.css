@@ -1,0 +1,7 @@
+.header__navigation-link_no-margin {
+  margin-right: 6px;
+  display: flex;
+}
+.header__navigation-link_no-margin:hover .header__navigation-link-wrapper-button {
+  transform: rotate(-180deg);
+}

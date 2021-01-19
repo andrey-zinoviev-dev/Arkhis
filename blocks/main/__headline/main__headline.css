@@ -1,0 +1,11 @@
+.main__headline {
+  text-align: center;
+  font-size: 45px;
+  line-height: 1.1;
+  text-transform: uppercase;
+  color: #015061;
+  margin: 0 0 40px 0;
+  font-weight: 300;
+  transform: scaleX(0.5);
+  font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
+}

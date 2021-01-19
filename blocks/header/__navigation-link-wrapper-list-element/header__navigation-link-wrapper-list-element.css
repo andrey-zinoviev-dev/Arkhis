@@ -1,0 +1,15 @@
+.header__navigation-link-wrapper-list-element {
+  min-width: 200px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 115%;
+  transition: color 0.15s ease-in-out;
+}
+.header__navigation-link-wrapper-list-element:hover {
+  color: #DD0127;
+}
+.header__navigation-link-wrapper-list-element:not(:last-of-type) {
+  margin-bottom: 8px;
+}

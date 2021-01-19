@@ -1,0 +1,11 @@
+.main__products-wrapper-product-heading {
+  font-family: 'Bebas Neue', Arial, sans-serif;
+  color: #ed0014;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 30px;
+  line-height: 1.1;
+  /* width: 75%; */
+  font-stretch: condensed;
+}

@@ -1,0 +1,5 @@
+.header__navigation-link-wrapper-button {
+  display: flex;
+  margin: 0 0 4px 6px;
+  transition: transform 0.2s ease-in-out;
+}

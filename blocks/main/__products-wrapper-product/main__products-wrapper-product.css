@@ -1,0 +1,10 @@
+.main__products-wrapper-product {
+  min-width: 608px;
+  min-height: 300px;
+  background: url('../../../pics/512332512521.png');
+  background-size: cover;
+  padding: 42px 50px;
+  box-sizing: border-box;
+  background-position: bottom;
+  position: relative;
+}

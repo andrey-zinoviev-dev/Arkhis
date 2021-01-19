@@ -1,5 +1,14 @@
+@import url('../font/circe.css');
 @import url('../blocks/root/root.css');
 @import url('../blocks/container/container.css');
 @import url('../blocks/header/header.css');
+@import url('../blocks/header/__navigation-link/_no-margin/header__navigation-link_no-margin.css');
+@import url('../blocks/header/__navigation-link-wrapper-list-element-img-background/_second/header__navigation-link-wrapper-list-element-img-background_second.css');
 @import url('../blocks/main/main.css');
-@import url('../blocks/products/products.css');
+@import url('../blocks/main/__products-wrapper-product/_last/main__products-wrapper-product_last.css');
+
+button {
+  padding: 0;
+  background: none;
+  border: none;
+}

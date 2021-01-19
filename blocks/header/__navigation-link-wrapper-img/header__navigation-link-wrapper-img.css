@@ -1,0 +1,7 @@
+.header__navigation-link-wrapper-img {
+  background-image: url('../../../pics/arrow.svg');
+  min-width: 12px;
+  min-height: 6px;
+  background-size: cover;
+  transform: rotate(180deg);
+}

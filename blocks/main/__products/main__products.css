@@ -1,0 +1,4 @@
+.main__products {
+  padding: 90px 0 90px 0;
+  margin: 0 calc((100% - 1240px)/2);
+}

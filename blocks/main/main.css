@@ -1,2 +1,12 @@
+@import url('./__content/main__content.css');
+@import url('./__headline/main__headline.css');
 @import url('./__content-img/main__content-img.css');
+@import url('./__products/main__products.css');
+@import url('./__products-wrapper/main__products-wrapper.css');
+@import url('./__products-wrapper-product/main__products-wrapper-product.css');
+@import url('./__products-wrapper-product-heading/main__products-wrapper-product-heading.css');
+@import url('./__products-wrapper-para/main__products-wrapper-para.css');
+@import url('./__products-wrapper-link/main__products-wrapper-link.css');
 @import url('./__products-img/main__products-img.css');
+@import url('./__newsletter/main__newsletter.css');
+@import url('./__newsletter-wrapper/main__newsletter-wrapper.css');
